@@ -4,7 +4,7 @@ An end-to-end Linear Regression project using Python and Scikit-learn to analyze
 # 🎯 Project Goal
 Develop an interpretable Linear Regression model that extracts meaningful insights from EPL player statistics and demonstrates a complete, real-world Machine Learning workflow from data exploration to prediction.
 
-🛠️ Tech Stack
+🛠️ Tech Stack                                           
 🐍 Python                                   
 🐼 Pandas                                           
 🔢 NumPy                                         
